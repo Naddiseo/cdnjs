@@ -1,0 +1,26 @@
+{
+  "name": "es6-shim",
+  "filename" : "es6-shim.min.js",
+  "version": "0.8.0",
+  "description": "ECMAScript 6 (Harmony) compatibility shims for legacy JavaScript engines",
+  "homepage": "https://github.com/paulmillr/es6-shim/",
+  "keywords": [
+    "es6",
+    "ECMAScript 6",
+    "shim",
+    "shiv",
+    "compatibility",
+    "modernization"
+  ],
+  "maintainers": [
+    {
+      "name" : "Paul Miller",
+      "email": "paul+gh@paulmillr.com",
+      "website": "http://paulmillr.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulmillr/es6-shim.git"
+  }
+}
